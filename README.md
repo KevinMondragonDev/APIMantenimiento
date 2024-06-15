@@ -5,7 +5,7 @@
 <p align='center'>
 </p>
 
-<h1> # APIRestFolios < UPRSJ Developers/ >! 
+<h1> # API for Medical Personal < UPRSJ Developers/ >! 
 
 <div size='20px'>
 	<h3>The Technologies that you need are: </h3> 
